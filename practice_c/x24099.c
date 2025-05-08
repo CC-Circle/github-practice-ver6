@@ -2,5 +2,5 @@
 
 int main(int argc,char *argv[]){
 
-    printf("hei Github!\n");
+    printf("gohantabetai\n");
 }
