@@ -2,5 +2,7 @@
 
 int main(int argc,char *argv[]){
 
-    printf("gohantabetai\n");
+
+    printf("hei Github!\n");
+
 }
